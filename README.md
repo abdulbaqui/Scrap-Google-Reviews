@@ -31,7 +31,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 
 Replace the path of the webdriver as per your system driver or if the driver is not present donwload and install
